@@ -1,0 +1,26 @@
+{
+  "name": "licensed",
+  "displayName": "Licensed",
+  "description": "Instantly insert licenses into markdown or your LICENSE file",
+  "icon": "./assets/Licensed.png",
+  "version": "0.0.1",
+  "publisher": "OPtimal",
+  "engines": {
+    "vscode": "^1.42.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "plaintext",
+        "path": "./snippets/snippets.json"
+      },
+      {
+        "language": "markdown",
+        "path": "./snippets/snippets.json"
+      }
+    ]
+  }
+}
