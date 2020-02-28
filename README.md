@@ -1,12 +1,21 @@
-# licensed README
+# Licensed
 
 Insert licenses instantly into your LICENSE file.
 
 ## Features
 
-Insert licenses instantly into your LICENSE or README.md file
+- Insert licenses instantly into your LICENSE or README.md file
 
 ![Showcase](./assets/MM8BNJjpPV.gif)
+
+- Includes licenses such as:
+    - GPL-v3.0
+    - GPL-v2.0
+    - AGPL-v3.0
+    - LGPL-v3.0
+    - MPL-v2.0 (Mozilla Public license)
+    - Apache Public License 2.0
+    - MIT
 
 ## Requirements
 
@@ -14,8 +23,8 @@ None. Just have VS Code installed
 
 ## Known Issues
 
-Calling out known issues can help limit users opening duplicate issues against your extension.
+None.
 
 ## Release Notes
 
-See [CHANGELOG.md](./CHANGELOG.md)
+See [CHANGELOG.md](./CHANGELOG.md) or the Changelog tab

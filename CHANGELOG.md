@@ -1,6 +1,6 @@
 # Change Log
 
-All notable changes to the "licensed" extension will be documented in this file.
+All notable changes to the "Licensed" extension will be documented in this file.
 
 ## Release 1.0.0
 
