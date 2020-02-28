@@ -2,7 +2,8 @@
   "name": "licensed",
   "displayName": "Licensed",
   "description": "Instantly insert licenses into markdown or your LICENSE file",
-  "icon": "./assets/Licensed.png",
+  "repository": {"url": "https://github.com/Optimalgitit/Licensed"},
+  "icon": "assets/Licensed.png",
   "version": "0.0.1",
   "publisher": "OPtimal",
   "engines": {
